@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<!-- host -->
-	<a href="/">Index</a>
-	<!-- member -->
-	<a href="/notice/list">Notice List</a>
+	<h1>Notice List</h1>
 </body>
 </html>
